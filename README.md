@@ -1,5 +1,5 @@
  Hi👋 this is Mr. Dev
-- 🔭 I’m currently pursuing my B.Tch
+- 🔭 I’m currently pursuing my B.Tech
 - 🌱 I’m currently learning Full_Stack
 - 👯 I’m looking to collaborate on Youtube.
 - 🤔 I’m looking for help with W3school Documentations.
